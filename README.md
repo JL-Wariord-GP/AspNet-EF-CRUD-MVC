@@ -16,7 +16,7 @@ Esta aplicación demuestra cómo construir una aplicación web utilizando el pat
 
 1. **Clona el repositorio**:
     ```bash
-    git clone https://github.com/tu-usuario/tu-repo.git
+    git clone https://github.com/JL-Wariord-GP/AspNet-EF-CRUD-MVC.git
     ```
 2. **Navega al directorio del proyecto**:
     ```bash
